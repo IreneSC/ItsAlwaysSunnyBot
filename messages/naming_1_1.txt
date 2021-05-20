@@ -1,0 +1,5 @@
+When your names are ready, have one player from your team set it with `--teamname "Name Here"`
+
+When you finish your personal token, send a picture to this channel with the caption `--playertoken`
+
+When everyone is ready, rejoin the Paddy's Pub Channel and send `--continue`

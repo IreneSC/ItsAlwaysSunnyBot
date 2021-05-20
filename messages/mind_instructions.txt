@@ -1,0 +1,5 @@
+And now, the first stage begins, of MIND, Trivia, Artistry, and Puzzles... Good luck teams. The drink of choice for teams in this level is water :cup_with_straw:
+
+Pick the turn order within your team, and type `--continue`
+
+**Also, Irene was on a tight schedule with coding and not all the error handling is in place -- please be careful not to have multiple people say who won!! It will roll over and give that team double points :grimacing: I'd reccomend appointing one person in the game who will always send the cardwon or pass message**

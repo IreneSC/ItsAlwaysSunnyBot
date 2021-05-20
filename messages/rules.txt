@@ -1,0 +1,16 @@
+Welcome to [GAME NAME]. This game will consist of 3 stages: Mind, Body, and Spirit. In order to win, your team must advance through all 3 levels, acquiring **4 Mind Cards, 3 Body Cards, and 4 Spirit Cards**. The first team to do so is the winner, and will get to destroy the other teams tokens, and of course, lord it over the losers. 
+
+You will **draw cards** according to the level your team currently resides in, but throughout, you may also encounter **CHANCE cards**. In the words of Charlie "It could be good... it could be bad... that's the chance..." Chance cards do not help you advance levels or win, but if you don't complete them, you will have to take a penalty shot of coffee.
+
+There are **MANY rules involved in [GAME NAME]** -- The full document is attached, which you may find useful later. But **here are the basic rules for now** (type `--rules` at any time to have this message resent)
+
+○ NO questions, except between rounds/during intermission
+        ○Penalty: drink for 5 seconds
+○ If a team FAILS a cards instructions, the other team can STEAL by attempting it themselves. Teams may acquire cards from levels beyond their 
+    own in this way
+        ○ If a card involves all players or one player from each team, there is no chance to steal.
+○ If a team is caught CHEATING, the other team advances to their level. If this happens, type `--cheat @[TeamWhoCheated]` and they be _handled_
+        ○ If they are caught while at level 1, they lose all their cards, and the other team advances a level
+○ ** Most importantly, all cards are OPT-IN. If you do not wish to do a card, you may simply say so, and all players should respect that**
+
+When you understand the rules, type `--continue` to begin!

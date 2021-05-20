@@ -1,0 +1,5 @@
+TIMES UP!
+
+Smash your can and intimidate the other team as best you can. Scream, Flex, whatever it takes: prepare then for the coming storm. Make them feel the pain their tokens will experience at the completion of the game.
+
+Type `--continue` when you feel everyone has been sufficiently intimidated.

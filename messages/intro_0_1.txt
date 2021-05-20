@@ -1,0 +1,1 @@
+First things first, we need a name for The Game of Games. Charlie? Dee? Who are those nerds! Come up with an awesome game name by smashing all _your_ names together. Hop in the Paddy's Pub channel to come up with a name while you gather materials. When you're ready, type `--gamename "Your Name Here"` (Don't forget the quotes!)
